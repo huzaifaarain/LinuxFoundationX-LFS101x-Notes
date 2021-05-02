@@ -1,5 +1,20 @@
 # Chapter 8: Finding Linux Documentaion
 
+- [Chapter 8: Finding Linux Documentaion](#chapter-8-finding-linux-documentaion)
+  - [Linux Documentation Sources](#linux-documentation-sources)
+  - [The `man` pages](#the-man-pages)
+    - [`man`](#man)
+  - [The GNU Info System](#the-gnu-info-system)
+    - [Using `info` from the Command Line](#using-info-from-the-command-line)
+    - [info Page Structure](#info-page-structure)
+  - [The --help Option and help Command](#the---help-option-and-help-command)
+    - [The `help` command](#the-help-command)
+  - [Other Documentation Sources](#other-documentation-sources)
+    - [Graphical Help Systems](#graphical-help-systems)
+    - [Package Documentation](#package-documentation)
+    - [Online Resources](#online-resources)
+    - [Working with Graphical Help Systems](#working-with-graphical-help-systems)
+
 ## Linux Documentation Sources
 
 Whether you are an inexperienced user or a veteran, you will not always know (or remember) the proper use of various Linux programs and utilities: what is the command to type, what options does it take, etc. You will need to consult help documentation regularly. Because Linux-based systems draw from a large variety of sources, there are numerous reservoirs of documentation and ways of getting help. Distributors consolidate this material and present it in a comprehensive and easy-to-use manner.
