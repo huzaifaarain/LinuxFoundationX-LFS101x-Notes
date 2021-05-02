@@ -1,5 +1,28 @@
 # Chapter 11: Text Editors
 
+- [Chapter 11: Text Editors](#chapter-11-text-editors)
+  - [Basic Editors: nano and gedit](#basic-editors-nano-and-gedit)
+    - [Overview of Text Editors in Linux](#overview-of-text-editors-in-linux)
+    - [Creating Files Without Using an Editor](#creating-files-without-using-an-editor)
+    - [nano and gedit](#nano-and-gedit)
+    - [nano](#nano)
+    - [gedit](#gedit)
+  - [More Advanced Editors: vi and emacs](#more-advanced-editors-vi-and-emacs)
+    - [vi and emacs](#vi-and-emacs)
+    - [Introduction to vi](#introduction-to-vi)
+    - [vimtutor](#vimtutor)
+    - [Modes in vi](#modes-in-vi)
+    - [Working with Files in vi](#working-with-files-in-vi)
+    - [Changing Cursor Positions in vi](#changing-cursor-positions-in-vi)
+    - [Searching for Text in vi](#searching-for-text-in-vi)
+    - [Using External Commands in vi](#using-external-commands-in-vi)
+    - [Introduction to emacs](#introduction-to-emacs)
+    - [Working with emacs](#working-with-emacs)
+    - [Changing Cursor Positions in emacs](#changing-cursor-positions-in-emacs)
+    - [Searching for Text in emacs](#searching-for-text-in-emacs)
+    - [Working with Text in emacs](#working-with-text-in-emacs)
+      - [Resources](#resources)
+
 ## Basic Editors: nano and gedit
 
 ### Overview of Text Editors in Linux
